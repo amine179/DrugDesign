@@ -1,0 +1,2 @@
+get data used for training G from the following link:
+
