@@ -1,2 +1,3 @@
 get data used for training G from the following link:
 
+https://drive.google.com/file/d/1a8OOjVf9NsgDT4iEeohzMaxpcIJlXGgT/view?usp=sharing
