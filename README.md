@@ -1,17 +1,18 @@
 # DrugDesign
-# Code for the paper :
+## Code for the paper :
 
-*Simple Conditional Reduction of the Loss Val-ue Versus Reinforcement Learning for Bias-sing a de-novo Drug Design Generators
+**Simple Conditional Reduction of the Loss Val-ue Versus Reinforcement Learning for Bias-sing a de-novo Drug Design Generators**
+
 (in review, will be added soon)
 
-# Requirements
+## Requirements
 * MatPlotLib
 * Numpy
 * Pandas
 * PyTorch
 * RDKit
 
-# files:
+## files:
 * 1_training_G.ipynb
 * 2_CRLV_biased_G__1.ipynb
 * 2_CRLV_biased_G__2.ipynb
@@ -25,6 +26,6 @@
 * Plot_performance.ipynb
 * utils.py
 
-# folders:
+## folders:
 * all_data
 * models and models/pretrained
