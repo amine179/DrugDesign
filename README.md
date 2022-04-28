@@ -22,7 +22,7 @@
 * 2_RL_biased_G__2.ipynb
 * 2_RL_biased_G__3.ipynb
 * 2_RL_biased_G__4.ipynb
-* 3_Data_exploration&analysis.ipynb
+* Data_exploration&analysis.ipynb
 * utils.py
 
 ## folders:
