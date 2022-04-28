@@ -12,7 +12,7 @@
 * PyTorch
 * RDKit
 
-## files:
+## files: (1 - 4: objective 1 to objective 4)
 * 1_training_G.ipynb
 * 2_CRLV_biased_G__1.ipynb
 * 2_CRLV_biased_G__2.ipynb
