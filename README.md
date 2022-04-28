@@ -23,7 +23,6 @@
 * 2_RL_biased_G__3.ipynb
 * 2_RL_biased_G__4.ipynb
 * 3_Data_exploration&analysis.ipynb
-* Plot_performance.ipynb
 * utils.py
 
 ## folders:
