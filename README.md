@@ -1,7 +1,7 @@
 # DrugDesign
 ## Code for the paper :
 
-**Simple Conditional Reduction of the Loss Val-ue Versus Reinforcement Learning for Bias-sing a de-novo Drug Design Generators**
+**Simple Conditional Reduction of the Loss Value Versus Reinforcement Learning for Biassing a de-novo Drug Design Generators**
 
 (in review, will be added soon)
 
