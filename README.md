@@ -7,6 +7,7 @@
 
 ## Requirements
 * MatPlotLib
+* Seaborn
 * Numpy
 * Pandas
 * PyTorch
