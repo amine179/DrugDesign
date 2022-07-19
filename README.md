@@ -27,4 +27,5 @@
 
 ## folders:
 * all_data
+* gen_smis
 * models and models/pretrained
