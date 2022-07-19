@@ -7,11 +7,12 @@
 
 ## Requirements
 * MatPlotLib
-* Seaborn
-* Numpy
-* Pandas
+* seaborn
+* numpy
+* pandas
 * PyTorch
 * RDKit
+* umap
 
 ## files: (1 - 4: objective 1 to objective 4)
 * 1_training_G.ipynb
