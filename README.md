@@ -3,7 +3,7 @@
 
 **Conditional Reduction of the Loss Value Versus Reinforcement Learning for Biassing a de-novo Drug Design Generator**
 
-(accepted, will be added here once published online)
+paper link: https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00643-2
 
 ## Requirements
 * MatPlotLib
